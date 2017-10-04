@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nom\ taille
+comment0.target=Fichier(java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ Fichier_size()
+numComments=2

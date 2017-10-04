@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nom
+comment0.target=Repertoire(java.lang.String)
+comment1.params=c
+comment1.target=boolean\ contient(Composant)
+comment2.params=comp
+comment2.target=boolean\ ajouter(Composant)
+comment3.params=comp
+comment3.target=boolean\ retirer(Composant)
+comment4.params=
+comment4.target=int\ Fichier_size()
+numComments=5
